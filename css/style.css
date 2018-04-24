@@ -121,10 +121,15 @@ h2 {
 }
 
 .paragraph {
-    line-height: 1.25rem;
+    line-height: 1.45rem;
     font-size: 1.12rem;
 }
 
 .paragraph a {
     color: #fc3868;
+}
+
+blockquote {
+    font-size: 1.25rem;
+    font-family: 'Open Sans', sans-serif;
 }
