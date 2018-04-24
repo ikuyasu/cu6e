@@ -97,7 +97,11 @@ footer img {
        -moz-text-stroke-color: #fc3868;
     -webkit-text-stroke-color: #fc3868;
        -moz-text-stroke-width: 2px;  
-    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px; 
+}
+
+#t {
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .snapchat {
