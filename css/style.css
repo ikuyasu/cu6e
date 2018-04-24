@@ -73,3 +73,27 @@ h3 {
 h4 {
     margin: auto;
 }
+
+footer   { 
+    color: #fff;
+    min-height:4em;         
+    background-color:black;             
+    width: 100%;
+    padding: 20px;
+}
+
+footer img {
+    float: right;
+}
+
+#ar {
+    font-size: 82px;
+    text-shadow: 7px 7px yellow;
+    text-shadow: 7px 7px yellow;
+    -moz-text-fill-color: #86D1F0;
+    -webkit-text-fill-color: #86D1F0;
+       -moz-text-stroke-color: #fc3868;
+    -webkit-text-stroke-color: #fc3868;
+       -moz-text-stroke-width: 1px;  
+    -webkit-text-stroke-width: 1px;
+}
