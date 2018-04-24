@@ -116,7 +116,11 @@ h2 {
     font-family: 'Open Sans', sans-serif;
 }
 
-p {
+.paragraph {
     line-height: 1.25rem;
     font-size: 1.12rem;
+}
+
+.paragraph a {
+    color: #fc3868;
 }
