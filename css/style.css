@@ -65,10 +65,12 @@ h1 {
 }
 
 h1,
+h5,
 h4,
 h3 {
     text-align: center;
 }
+
 
 h4 {
     margin: auto;
@@ -90,10 +92,31 @@ footer img {
     font-size: 82px;
     text-shadow: 7px 7px yellow;
     text-shadow: 7px 7px yellow;
-    -moz-text-fill-color: #86D1F0;
-    -webkit-text-fill-color: #86D1F0;
+    -moz-text-fill-color: #fff;
+    -webkit-text-fill-color: #fff;
        -moz-text-stroke-color: #fc3868;
     -webkit-text-stroke-color: #fc3868;
        -moz-text-stroke-width: 1px;  
     -webkit-text-stroke-width: 1px;
+}
+
+.snapchat {
+    text-align: center;
+}
+
+.snapchat img {
+    border-radius: 20%;
+    border: 1px solid;
+    width: 50px;
+    height: 50px;    
+    margin: 20px;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    line-height: 1.25rem;
+    font-size: 1.12rem;
 }
