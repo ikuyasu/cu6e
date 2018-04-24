@@ -133,3 +133,19 @@ blockquote {
     font-size: 1.25rem;
     font-family: 'Open Sans', sans-serif;
 }
+
+.space {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.space img {
+    height: 120px;
+}
+
+.fig {
+    height: 120px;
+    margin: 20px;
+    text-align: center;
+}
