@@ -153,3 +153,7 @@ blockquote {
     margin: 20px;
     text-align: center;
 }
+
+.ks a {
+    color: #fc3868;
+}
